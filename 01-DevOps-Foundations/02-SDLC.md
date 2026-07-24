@@ -248,6 +248,6 @@ These challenges led to the adoption of **Agile** and later **DevOps**, which he
 
 # 📚 Navigation
 
-⬅️ Previous: **[Software Development](01-Software-Development.md)**
+⬅️ Previous: **[01-Software-Development](01-Software-Development.md)**
 
-➡️ Next: **[Software Development Models](03-Software-Development-Models.md)**
+➡️ Next: **[03-Software-Development-Models](03-Software-Development-Models.md)**
