@@ -217,6 +217,6 @@ Agile makes all of this possible, which is why it has become the most widely ado
 
 # 📚 Navigation
 
-⬅️ Previous: **[Software Development Life Cycle (SDLC)](02-SDLC.md)**
+⬅️ Previous: **[02-SDLC](02-SDLC.md)**
 
-➡️ Next: **[Agile Methodology](04-Agile.md)**
+➡️ Next: **[04-Agile](04-Agile.md)**
