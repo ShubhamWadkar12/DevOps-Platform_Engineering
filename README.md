@@ -1,6 +1,6 @@
 # 🚀 DevOps to Platform Engineering Roadmap
 
-> **Mission:** Become a production-ready **DevOps Engineer** and evolve into a **Platform Engineer** by mastering Linux, Cloud, Kubernetes, Automation, Infrastructure as Code, CI/CD, Observability, Security, and Internal Developer Platforms.
+> **Mission:** Become a production ready **DevOps Engineer** and evolve into a **Platform Engineer** by mastering Linux, Cloud, Kubernetes, Automation, Infrastructure as Code, CI/CD, Observability, Security, and Internal Developer Platforms.
 
 ---
 
