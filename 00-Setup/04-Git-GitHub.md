@@ -90,11 +90,3 @@ git pull -> Downloads your friend's changes; Immediately updates your current br
 **Q: Why do we use branches?**  
 **A:** Branches allow developers to work on new features or fixes without affecting the main code.
 
----
-
-# Summary
-
-- Git is used to track code changes.
-- GitHub hosts Git repositories online.
-- Git enables version control and collaboration.
-- Git & GitHub are essential tools for every DevOps engineer.
