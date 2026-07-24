@@ -555,24 +555,46 @@ Create a professional development environment that will be used throughout the j
 * Build a Simple Internal Developer Platform
 
 ---
+# 📍 Phase 15 – AI & Agentic AI for DevOps (Week 49)
 
-# 📍 Phase 15 – AI for DevOps (Week 49)
+> **Goal:** Learn how AI and Agentic AI can automate DevOps workflows, improve productivity, and simplify infrastructure management.
 
-> **Goal:** Use AI to become a more productive engineer.
+## AI Fundamentals
 
-## Topics
+* Introduction to AI
+* Large Language Models (LLMs)
+* Prompt Engineering
+* Responsible AI Usage
+
+## AI for DevOps
 
 * AI-assisted Scripting
 * Infrastructure as Code Generation
+* CI/CD Pipeline Generation
 * Incident Analysis
 * Log Summarization
 * Documentation Generation
 * Pull Request Review
 * ChatOps Concepts
 
-### Mini Project
+## Agentic AI for DevOps
+
+* Introduction to AI Agents
+* Agentic AI vs Traditional AI
+* Multi-Agent Systems
+* AI-powered DevOps Assistants
+* AI for Infrastructure Automation
+* AI for Incident Response
+* AI for Root Cause Analysis
+* Model Context Protocol (MCP) Fundamentals
+
+### Mini Projects
 
 * AI-Powered DevOps Assistant
+* AI Log Analyzer
+* AI Kubernetes Troubleshooter
+* AI Infrastructure Automation Assistant
+
 
 ---
 
