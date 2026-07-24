@@ -86,7 +86,5 @@ git fetch -> Downloads your friend's changes; Your project stays exactly the sam
 
 git pull -> Downloads your friend's changes; Immediately updates your current branch with those changes.
 ```
-
 **Q: Why do we use branches?**  
 **A:** Branches allow developers to work on new features or fixes without affecting the main code.
-
