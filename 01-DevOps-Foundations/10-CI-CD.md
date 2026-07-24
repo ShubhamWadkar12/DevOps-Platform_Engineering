@@ -160,25 +160,25 @@ The entire process is automated, reducing manual work and improving reliability.
 
 # 💼 Interview Questions
 
-* **What is CI/CD?**
+* **What is CI/CD?**                                
   CI/CD is a DevOps practice that automates building, testing, and deploying software.
 
-* **What does CI stand for?**
+* **What does CI stand for?**                                      
   CI stands for **Continuous Integration**, where developers frequently merge code changes into a shared repository.
 
-* **What does CD stand for?**
+* **What does CD stand for?**                                          
   CD stands for **Continuous Delivery** or **Continuous Deployment**.
 
-* **What is the difference between Continuous Delivery and Continuous Deployment?**
+* **What is the difference between Continuous Delivery and Continuous Deployment?**                                     
   Continuous Delivery requires manual approval before production, while Continuous Deployment automatically deploys every successful change to production.
 
-* **Why is Continuous Integration important?**
+* **Why is Continuous Integration important?**                               
   It detects errors early, improves code quality, and helps developers integrate changes frequently.
 
-* **What is a CI/CD pipeline?**
+* **What is a CI/CD pipeline?**                          
   A CI/CD pipeline is an automated workflow that builds, tests, and deploys applications.
 
-* **Name some popular CI/CD tools.**
+* **Name some popular CI/CD tools.**                                
   Jenkins, GitHub Actions, GitLab CI/CD, Azure DevOps Pipelines, CircleCI, and Argo CD.
 
 ---
