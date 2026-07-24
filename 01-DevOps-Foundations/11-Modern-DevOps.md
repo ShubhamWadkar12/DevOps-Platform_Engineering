@@ -248,25 +248,25 @@ This activity will help you become familiar with technologies you will learn lat
 
 # 💼 Interview Questions
 
-* **What is Modern DevOps?**
+* **What is Modern DevOps?**                          
   Modern DevOps is an advanced approach to DevOps that combines cloud computing, automation, security, observability, and AI to improve software delivery.
 
-* **What is Infrastructure as Code (IaC)?**
+* **What is Infrastructure as Code (IaC)?**                        
   Infrastructure as Code is the practice of managing infrastructure using code instead of manual configuration.
 
-* **What is GitOps?**
+* **What is GitOps?**                       
   GitOps is a practice where Git acts as the single source of truth for infrastructure and application deployments.
 
-* **What is DevSecOps?**
+* **What is DevSecOps?**                       
   DevSecOps integrates security into every stage of the DevOps lifecycle.
 
-* **What is Site Reliability Engineering (SRE)?**
+* **What is Site Reliability Engineering (SRE)?**                  
   SRE applies software engineering practices to improve system reliability, scalability, and availability.
 
-* **What is Platform Engineering?**
+* **What is Platform Engineering?**                        
   Platform Engineering focuses on building internal platforms that help developers deploy and manage applications efficiently.
 
-* **How is AI used in DevOps?**
+* **How is AI used in DevOps?**                         
   AI helps automate tasks such as log analysis, infrastructure generation, incident detection, documentation, and CI/CD optimization.
 
 ---
