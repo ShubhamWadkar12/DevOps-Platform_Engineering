@@ -18,7 +18,7 @@
 
 # 🗺️ Learning Roadmap
 
-## 📍 Phase 0 – Engineering Setup (27 July)
+## 📍 Phase 0 – Engineering Setup (27 July 2026)
 
 ### Objective
 
@@ -54,7 +54,7 @@ Create a professional development environment that will be used throughout the j
 
 ---
 
-# 📍 Phase 1 – Linux Fundamentals (Weeks 1–3)
+# 📍 Phase 1 – Linux Fundamentals (28 Jul – 17 Aug)
 
 > **Goal:** Become comfortable working inside Linux without depending on a graphical interface.
 
@@ -135,7 +135,7 @@ Create a professional development environment that will be used throughout the j
 
 ---
 
-# 📍 Phase 2 – Networking Fundamentals (Weeks 4–5)
+# 📍 Phase 2 – Networking Fundamentals (18 Aug – 31 Aug)
 
 > **Goal:** Understand how computers communicate.
 
@@ -188,7 +188,7 @@ Create a professional development environment that will be used throughout the j
 
 ---
 
-# 📍 Phase 3 – Git & GitHub (Week 6)
+# 📍 Phase 3 – Git & GitHub (1 Sep – 7 Sep)
 
 > **Goal:** Learn professional version control workflows.
 
@@ -222,7 +222,7 @@ Create a professional development environment that will be used throughout the j
 
 ---
 
-# 📍 Phase 4 – Bash Scripting (Week 7)
+# 📍 Phase 4 – Bash Scripting (8 Sep – 14 Sep)
 
 > **Goal:** Automate repetitive Linux tasks.
 
@@ -247,7 +247,7 @@ Create a professional development environment that will be used throughout the j
 
 ---
 
-# 📍 Phase 5 – Python for DevOps (Weeks 8–11)
+# 📍 Phase 5 – Python for DevOps (15 Sep – 5 Oct)
 
 > **Goal:** Build automation using Python.
 
@@ -287,7 +287,7 @@ Create a professional development environment that will be used throughout the j
 
 ---
 
-# 📍 Phase 6 – Docker (Weeks 12–14)
+# 📍 Phase 6 – Docker (6 Oct – 19 Oct)
 
 > **Goal:** Master containerization.
 
@@ -313,7 +313,7 @@ Create a professional development environment that will be used throughout the j
 
 ---
 
-# 📍 Phase 7 – Kubernetes (Weeks 15–22)
+# 📍 Phase 7 – Kubernetes (20 Oct – 23 Nov)
 
 > **Goal:** Learn Kubernetes from beginner to production level.
 
@@ -381,7 +381,7 @@ Create a professional development environment that will be used throughout the j
 
 ---
 
-# 📍 Phase 8 – AWS Cloud (Weeks 23–28)
+# 📍 Phase 8 – AWS Cloud (24 Nov – 14 Dec)
 
 > **Goal:** Master the AWS services used by DevOps engineers.
 
@@ -426,7 +426,7 @@ Create a professional development environment that will be used throughout the j
 
 ---
 
-# 📍 Phase 9 – Infrastructure as Code (Weeks 29–31)
+# 📍 Phase 9 – Infrastructure as Code (15 Dec – 28 Dec)
 
 ## Terraform
 
@@ -450,7 +450,7 @@ Create a professional development environment that will be used throughout the j
 
 ---
 
-# 📍 Phase 10 – Configuration Management (Week 32)
+# 📍 Phase 10 – Configuration Management (29 Dec – 4 Jan)
 
 ## Ansible
 
@@ -467,7 +467,7 @@ Create a professional development environment that will be used throughout the j
 
 ---
 
-# 📍 Phase 11 – CI/CD & GitOps (Weeks 33–36)
+# 📍 Phase 11 – CI/CD & GitOps (5 Jan – 18 Jan)
 
 ## CI/CD
 
@@ -488,7 +488,7 @@ Create a professional development environment that will be used throughout the j
 
 ---
 
-# 📍 Phase 12 – Observability (Weeks 37–39)
+# 📍 Phase 12 – Observability (19 Jan – 25 Jan)
 
 ## Monitoring
 
@@ -513,7 +513,7 @@ Create a professional development environment that will be used throughout the j
 
 ---
 
-# 📍 Phase 13 – DevSecOps (Weeks 40–42)
+# 📍 Phase 13 – DevSecOps (26 Jan – 1 Feb)
 
 ## Topics
 
@@ -533,7 +533,7 @@ Create a professional development environment that will be used throughout the j
 
 ---
 
-# 📍 Phase 14 – Platform Engineering (Weeks 43–48)
+# 📍 Phase 14 – Platform Engineering (2 Feb – 8 Feb)
 
 > **Goal:** Build Internal Developer Platforms that simplify software delivery.
 
@@ -555,7 +555,68 @@ Create a professional development environment that will be used throughout the j
 * Build a Simple Internal Developer Platform
 
 ---
-# 📍 Phase 15 – AI & Agentic AI for DevOps (Week 49)
+# 📍 Phase 15 – System Design for DevOps & Platform Engineering (9 Feb – 15 Feb)
+
+> **Goal:** Learn how modern cloud-native systems are designed, scaled, secured, and maintained in production environments.
+
+## System Design Fundamentals
+
+* Functional vs Non-Functional Requirements
+* Scalability
+* High Availability (HA)
+* Reliability
+* Fault Tolerance
+* Disaster Recovery (DR)
+* Horizontal vs Vertical Scaling
+
+## Architecture Patterns
+
+* Client-Server Architecture
+* Monolithic Architecture
+* Microservices
+* Event-Driven Architecture
+* Serverless (Introduction)
+
+## System Components
+
+* Load Balancers
+* Reverse Proxy
+* API Gateway
+* Caching (Redis)
+* Message Queues
+* Database Replication
+* Sharding
+* CDN
+
+## Cloud & Kubernetes Design
+
+* Multi-AZ Architecture
+* Multi-Region Architecture
+* Auto Scaling
+* High Availability Kubernetes Clusters
+* Storage Design
+* Network Design
+
+## Platform Engineering Design
+
+* Internal Developer Platforms
+* Golden Paths
+* Self-Service Infrastructure
+* GitOps Architecture
+
+### Hands-on
+
+* Design a scalable E-commerce application
+* Design a highly available Kubernetes cluster
+* Design a cloud-native application architecture
+
+### Mini Projects
+
+* High Availability Web Application Architecture
+* Production Kubernetes Architecture
+* Enterprise CI/CD Architecture
+---
+# 📍 Phase 16 – AI & Agentic AI for DevOps (16 Feb – 22 Feb)
 
 > **Goal:** Learn how AI and Agentic AI can automate DevOps workflows, improve productivity, and simplify infrastructure management.
 
@@ -598,7 +659,7 @@ Create a professional development environment that will be used throughout the j
 
 ---
 
-# 📍 Phase 16 – Production Projects (Weeks 50–52)
+# 📍 Phase 17 – Production Projects (23 Feb – 28 Feb)
 
 Build an interview-ready portfolio by combining everything you've learned.
 
@@ -616,7 +677,7 @@ Build an interview-ready portfolio by combining everything you've learned.
 
 ---
 
-# 📍 Phase 17 – Interview Preparation (Ongoing)
+# 📍 Phase 18 – Interview Preparation (Ongoing)
 
 ## Focus Areas
 
