@@ -18,7 +18,7 @@
 
 # 🗺️ Learning Roadmap
 
-## 📍 Phase 0 – Engineering Setup (27 July 2026)
+## 📍 Phase 0 – Engineering Setup (27 July)
 
 ### Objective
 
