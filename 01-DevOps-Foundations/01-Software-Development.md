@@ -200,6 +200,6 @@ Every team member contributes to delivering a reliable application.
 
 # 🚀 What's Next?
 
-➡️ **02-SDLC.md**
+➡️ [02-SDLC.md](02-SDLC.md)
 
 In the next chapter, you'll learn about the **Software Development Life Cycle (SDLC)** and understand how software moves from an idea to a fully deployed application.
