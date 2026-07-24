@@ -243,25 +243,25 @@ Identify one tool that can be used at each stage of the lifecycle.
 
 # 💼 Interview Questions
 
-* **What is the DevOps Lifecycle?**
+* **What is the DevOps Lifecycle?**                           
   The DevOps Lifecycle is a continuous process that helps teams plan, build, test, deploy, monitor, and improve software efficiently.
 
-* **What are the stages of the DevOps Lifecycle?**
+* **What are the stages of the DevOps Lifecycle?**                            
   The stages are Plan, Develop, Build, Test, Release, Deploy, Operate, Monitor, and Feedback.
 
-* **Why is the Planning stage important?**
+* **Why is the Planning stage important?**                            
   It helps define project goals, gather requirements, and prioritize work before development begins.
 
-* **What happens during the Build stage?**
+* **What happens during the Build stage?**                           
   Source code is compiled, dependencies are resolved, and build artifacts are created.
 
-* **Why is automated testing important in DevOps?**
+* **Why is automated testing important in DevOps?**                       
   Automated testing finds issues early, improves software quality, and speeds up the release process.
 
-* **What is the purpose of the Monitoring stage?**
+* **What is the purpose of the Monitoring stage?**                               
   Monitoring tracks application performance, detects issues, and helps maintain system reliability.
 
-* **Why is feedback important in the DevOps Lifecycle?**
+* **Why is feedback important in the DevOps Lifecycle?**              
   Feedback helps teams improve future releases by learning from users, stakeholders, and monitoring data.
 
 ---
