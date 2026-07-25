@@ -1,6 +1,6 @@
 # 🚀 DevOps to Platform Engineering Roadmap
 
-> **Mission:** Become a production ready **DevOps Engineer** and evolve into a **Platform Engineer** by mastering Linux, Cloud, Kubernetes, Automation, Infrastructure as Code, CI/CD, Observability, Security, and Internal Developer Platforms.
+> **Mission:** Become a production-ready **DevOps Engineer** and evolve into a **Platform Engineer** by mastering Linux, Cloud, Kubernetes, Automation, Infrastructure as Code, CI/CD, Observability, Security, and Internal Developer Platforms.
 
 ---
 
@@ -18,7 +18,7 @@
 
 # 🗺️ Learning Roadmap
 
-## 📍 Phase 0 – Engineering Setup (27 July)
+## 📍 Phase 0 – Engineering Setup (27 Jul)
 
 ### Objective
 
@@ -54,7 +54,90 @@ Create a professional development environment that will be used throughout the j
 
 ---
 
-# 📍 Phase 1 – Linux Fundamentals (28 Jul – 17 Aug)
+# 📍 Phase 1 – DevOps Foundations (28 Jul – 3 Aug)
+
+> **Goal:** Understand what DevOps is, why it exists, how modern software teams work, and where the industry is heading.
+
+## Software Development Basics
+
+* What is Software Development?
+* Software Development Life Cycle (SDLC)
+* Traditional Development Process
+* Waterfall Model
+* Problems with Traditional Development
+
+## Agile & DevOps
+
+* What is Agile?
+* Agile Principles
+* Scrum Framework
+* Sprint
+* Product Backlog
+* Sprint Backlog
+* Daily Stand-up
+* Sprint Review
+* Sprint Retrospective
+
+## Jira
+
+* What is Jira?
+* Epics
+* Stories
+* Tasks
+* Bugs
+* Boards
+* Sprint Planning
+* Basic Workflow
+
+## DevOps Fundamentals
+
+* What is DevOps?
+* History of DevOps
+* DevOps Culture
+* DevOps Principles
+* CALMS Framework
+* DevOps Lifecycle
+* CI vs CD
+* Infrastructure as Code
+* Automation
+* Feedback Loops
+
+## Modern DevOps
+
+* Cloud Computing Overview
+* Containers vs Virtual Machines
+* Kubernetes Overview
+* Platform Engineering (Introduction)
+* DevSecOps (Introduction)
+* AI & Agentic AI in DevOps (Introduction)
+* GitOps (Introduction)
+* Site Reliability Engineering (SRE) Overview
+
+## Career Roadmap
+
+* Roles in DevOps
+* Responsibilities of a DevOps Engineer
+* Typical Daily Workflow
+* Career Progression
+* Required Skills
+* Certifications (Optional)
+
+### Hands-on
+
+* Explore Jira
+* Create your first Scrum board
+* Create user stories and tasks
+* Map a CI/CD pipeline
+* Understand a real DevOps workflow
+
+### Mini Projects
+
+* Plan a sample software project using Agile and Jira
+* Design a simple DevOps lifecycle diagram
+
+---
+
+# 📍 Phase 2 – Linux Fundamentals (4 Aug – 24 Aug)
 
 > **Goal:** Become comfortable working inside Linux without depending on a graphical interface.
 
@@ -135,7 +218,7 @@ Create a professional development environment that will be used throughout the j
 
 ---
 
-# 📍 Phase 2 – Networking Fundamentals (18 Aug – 31 Aug)
+# 📍 Phase 3 – Networking Fundamentals (25 Aug – 7 Sep)
 
 > **Goal:** Understand how computers communicate.
 
@@ -188,7 +271,7 @@ Create a professional development environment that will be used throughout the j
 
 ---
 
-# 📍 Phase 3 – Git & GitHub (1 Sep – 7 Sep)
+# 📍 Phase 4 – Git & GitHub (8 Sep – 14 Sep)
 
 > **Goal:** Learn professional version control workflows.
 
@@ -222,7 +305,7 @@ Create a professional development environment that will be used throughout the j
 
 ---
 
-# 📍 Phase 4 – Bash Scripting (8 Sep – 14 Sep)
+# 📍 Phase 5 – Bash Scripting (15 Sep – 21 Sep)
 
 > **Goal:** Automate repetitive Linux tasks.
 
@@ -247,7 +330,7 @@ Create a professional development environment that will be used throughout the j
 
 ---
 
-# 📍 Phase 5 – Python for DevOps (15 Sep – 5 Oct)
+# 📍 Phase 6 – Python for DevOps (22 Sep – 12 Oct)
 
 > **Goal:** Build automation using Python.
 
@@ -287,419 +370,57 @@ Create a professional development environment that will be used throughout the j
 
 ---
 
-# 📍 Phase 6 – Docker (6 Oct – 19 Oct)
+# 📍 Phase 7 – Docker (13 Oct – 26 Oct)
 
-> **Goal:** Master containerization.
+...
 
-## Topics
+# 📍 Phase 8 – Kubernetes (27 Oct – 30 Nov)
 
-* Containers
-* Images
-* Docker CLI
-* Dockerfile
-* Volumes
-* Networks
-* Docker Compose
-* BuildKit
-* Multi-stage Builds
-* Distroless Images
-* Image Optimization
+...
 
-### Mini Projects
+# 📍 Phase 9 – AWS Cloud (1 Dec – 21 Dec)
 
-* Dockerize Python Application
-* Multi-container Application
-* Nginx Reverse Proxy
+...
 
----
+# 📍 Phase 10 – Infrastructure as Code (22 Dec – 4 Jan)
 
-# 📍 Phase 7 – Kubernetes (20 Oct – 23 Nov)
+...
 
-> **Goal:** Learn Kubernetes from beginner to production level.
+# 📍 Phase 11 – Configuration Management (5 Jan – 11 Jan)
 
-## Architecture
+...
 
-* Control Plane
-* Worker Nodes
-* API Server
-* Scheduler
-* Controller Manager
-* etcd
+# 📍 Phase 12 – CI/CD & GitOps (12 Jan – 25 Jan)
 
-## Workloads
+...
 
-* Pods
-* ReplicaSets
-* Deployments
-* DaemonSets
-* StatefulSets
-* Jobs
-* CronJobs
+# 📍 Phase 13 – Observability (26 Jan – 1 Feb)
 
-## Networking
+...
 
-* Services
-* Ingress
-* CNI
-* Network Policies
+# 📍 Phase 14 – DevSecOps (2 Feb – 8 Feb)
 
-## Storage
+...
 
-* Persistent Volumes
-* PVC
-* Storage Classes
-* CSI
+# 📍 Phase 15 – Platform Engineering (9 Feb – 15 Feb)
 
-## Security
+...
 
-* RBAC
-* Service Accounts
-* ConfigMaps
-* Secrets
+# 📍 Phase 16 – System Design for DevOps & Platform Engineering (16 Feb – 22 Feb)
 
-## Packaging
+...
 
-* Helm
-* Kustomize
+# 📍 Phase 17 – AI & Agentic AI for DevOps (23 Feb – 1 Mar)
 
-## Scaling
+...
 
-* HPA
-* VPA (Concept)
+# 📍 Phase 18 – Production Projects (2 Mar – 8 Mar)
 
-## Troubleshooting
+...
 
-* CrashLoopBackOff
-* ImagePullBackOff
-* Pending Pods
-* Logs
-* Events
+# 📍 Phase 19 – Interview Preparation (Ongoing)
 
-### Mini Project
-
-* Deploy a Production-Style Microservices Application
-
----
-
-# 📍 Phase 8 – AWS Cloud (24 Nov – 14 Dec)
-
-> **Goal:** Master the AWS services used by DevOps engineers.
-
-## Compute
-
-* EC2
-* ECS
-* EKS
-
-## Storage
-
-* S3
-* EBS
-* EFS
-* ECR
-
-## Networking
-
-* VPC
-* Security Groups
-* Route 53
-* ALB/NLB
-
-## Security
-
-* IAM
-* Secrets Manager
-
-## Monitoring
-
-* CloudWatch
-* CloudTrail
-
-## Automation
-
-* Systems Manager
-* Auto Scaling
-
-### Mini Project
-
-* Deploy Highly Available Infrastructure on AWS
-
----
-
-# 📍 Phase 9 – Infrastructure as Code (15 Dec – 28 Dec)
-
-## Terraform
-
-* Providers
-* Resources
-* Variables
-* Outputs
-* Modules
-* Remote State
-* Workspaces
-* State Management
-* Best Practices
-
-### Bonus
-
-* OpenTofu Fundamentals
-
-### Mini Project
-
-* Complete AWS Infrastructure with Terraform
-
----
-
-# 📍 Phase 10 – Configuration Management (29 Dec – 4 Jan)
-
-## Ansible
-
-* Inventory
-* Playbooks
-* Roles
-* Variables
-* Templates
-* Vault
-
-### Mini Project
-
-* Automated Linux Server Configuration
-
----
-
-# 📍 Phase 11 – CI/CD & GitOps (5 Jan – 18 Jan)
-
-## CI/CD
-
-* GitHub Actions
-* Jenkins
-* GitLab CI
-
-## GitOps
-
-* Argo CD
-* Rolling Deployment
-* Blue-Green Deployment
-* Canary Deployment
-
-### Mini Project
-
-* Complete CI/CD Pipeline
-
----
-
-# 📍 Phase 12 – Observability (19 Jan – 25 Jan)
-
-## Monitoring
-
-* Prometheus
-* Grafana
-
-## Logging
-
-* Loki
-
-## Tracing
-
-* OpenTelemetry
-
-## Alerting
-
-* Alertmanager
-
-### Mini Project
-
-* Production Monitoring Stack
-
----
-
-# 📍 Phase 13 – DevSecOps (26 Jan – 1 Feb)
-
-## Topics
-
-* Trivy
-* Image Scanning
-* Secret Scanning
-* Dependency Scanning
-* IAM Best Practices
-* RBAC
-* SBOM Fundamentals
-* Supply Chain Security
-* Policy as Code (Introduction)
-
-### Mini Project
-
-* Secure Container Pipeline
-
----
-
-# 📍 Phase 14 – Platform Engineering (2 Feb – 8 Feb)
-
-> **Goal:** Build Internal Developer Platforms that simplify software delivery.
-
-## Topics
-
-* Platform Engineering Fundamentals
-* Internal Developer Platforms (IDPs)
-* Golden Paths
-* Backstage
-* Crossplane
-* GitOps at Scale
-* Kubernetes Operators (Concepts)
-* Self-Service Infrastructure
-* Platform APIs
-* Multi-cluster Management
-
-### Mini Project
-
-* Build a Simple Internal Developer Platform
-
----
-# 📍 Phase 15 – System Design for DevOps & Platform Engineering (9 Feb – 15 Feb)
-
-> **Goal:** Learn how modern cloud-native systems are designed, scaled, secured, and maintained in production environments.
-
-## System Design Fundamentals
-
-* Functional vs Non-Functional Requirements
-* Scalability
-* High Availability (HA)
-* Reliability
-* Fault Tolerance
-* Disaster Recovery (DR)
-* Horizontal vs Vertical Scaling
-
-## Architecture Patterns
-
-* Client-Server Architecture
-* Monolithic Architecture
-* Microservices
-* Event-Driven Architecture
-* Serverless (Introduction)
-
-## System Components
-
-* Load Balancers
-* Reverse Proxy
-* API Gateway
-* Caching (Redis)
-* Message Queues
-* Database Replication
-* Sharding
-* CDN
-
-## Cloud & Kubernetes Design
-
-* Multi-AZ Architecture
-* Multi-Region Architecture
-* Auto Scaling
-* High Availability Kubernetes Clusters
-* Storage Design
-* Network Design
-
-## Platform Engineering Design
-
-* Internal Developer Platforms
-* Golden Paths
-* Self-Service Infrastructure
-* GitOps Architecture
-
-### Hands-on
-
-* Design a scalable E-commerce application
-* Design a highly available Kubernetes cluster
-* Design a cloud-native application architecture
-
-### Mini Projects
-
-* High Availability Web Application Architecture
-* Production Kubernetes Architecture
-* Enterprise CI/CD Architecture
----
-# 📍 Phase 16 – AI & Agentic AI for DevOps (16 Feb – 22 Feb)
-
-> **Goal:** Learn how AI and Agentic AI can automate DevOps workflows, improve productivity, and simplify infrastructure management.
-
-## AI Fundamentals
-
-* Introduction to AI
-* Large Language Models (LLMs)
-* Prompt Engineering
-* Responsible AI Usage
-
-## AI for DevOps
-
-* AI-assisted Scripting
-* Infrastructure as Code Generation
-* CI/CD Pipeline Generation
-* Incident Analysis
-* Log Summarization
-* Documentation Generation
-* Pull Request Review
-* ChatOps Concepts
-
-## Agentic AI for DevOps
-
-* Introduction to AI Agents
-* Agentic AI vs Traditional AI
-* Multi-Agent Systems
-* AI-powered DevOps Assistants
-* AI for Infrastructure Automation
-* AI for Incident Response
-* AI for Root Cause Analysis
-* Model Context Protocol (MCP) Fundamentals
-
-### Mini Projects
-
-* AI-Powered DevOps Assistant
-* AI Log Analyzer
-* AI Kubernetes Troubleshooter
-* AI Infrastructure Automation Assistant
-
-
----
-
-# 📍 Phase 17 – Production Projects (23 Feb – 28 Feb)
-
-Build an interview-ready portfolio by combining everything you've learned.
-
-## Projects
-
-* Linux Automation Toolkit
-* Dockerized Python Application
-* Kubernetes Production Deployment
-* AWS Infrastructure with Terraform
-* GitHub Actions CI/CD Pipeline
-* GitOps Deployment with Argo CD
-* Monitoring Stack (Prometheus + Grafana + Loki)
-* End-to-End Cloud-Native Microservices Platform
-* Internal Developer Platform
-
----
-
-# 📍 Phase 18 – Interview Preparation (Ongoing)
-
-## Focus Areas
-
-* Linux Interview Questions
-* Networking Interview Questions
-* Git & GitHub
-* Bash Scripting
-* Python for DevOps
-* Docker
-* Kubernetes
-* AWS
-* Terraform
-* Ansible
-* CI/CD
-* Monitoring
-* DevSecOps
-* Platform Engineering
-* System Design
-* Production Troubleshooting
-* Mock Interviews
-* Resume Building
-* LinkedIn Optimization
+...
 
 ---
 
@@ -719,6 +440,7 @@ Build an interview-ready portfolio by combining everything you've learned.
 
 By completing this roadmap, you will have:
 
+* Strong DevOps Foundations
 * Strong Linux & Networking Fundamentals
 * Production-Level Docker & Kubernetes Skills
 * AWS Cloud Experience
