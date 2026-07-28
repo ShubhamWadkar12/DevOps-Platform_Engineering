@@ -32,6 +32,8 @@ A software development model is a framework that defines the sequence of activit
 
 It helps teams organize their work, reduce risks, improve collaboration, and deliver better software.
 
+Software Development Models are methodologies used to implement the SDLC.
+
 ---
 
 # 1️⃣ Waterfall Model
